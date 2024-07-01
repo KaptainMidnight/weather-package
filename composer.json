@@ -1,5 +1,5 @@
 {
-    "name": "artemkin/weather",
+    "name": "kaptainmidnight/weather",
     "description": "The package for get weather from any location",
     "autoload": {
         "psr-4": {

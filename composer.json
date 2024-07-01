@@ -1,0 +1,16 @@
+{
+    "name": "artemkin/weather",
+    "description": "The package for get weather from any location",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Artemkin",
+            "email": "artemkin030@gmail.com"
+        }
+    ],
+    "require": {}
+}
